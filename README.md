@@ -1,6 +1,6 @@
 # File_Manager
 
-File_Manager is a file manager (for windows) based on python. It was made by Semih Okumuş as a personal project. With this Python-based file manager, you can copy, move, rename and delete your files to the target directory.
+File_Manager is a file manager (for windows) based on python. It was made by [Semih Okumuş](https://github.com/smh-ux) as a personal project. With this Python-based file manager, you can copy, move, rename and delete your files to the target directory.
 
 ## Modules Used:
 
