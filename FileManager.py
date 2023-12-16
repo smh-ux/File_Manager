@@ -1,3 +1,11 @@
+'''
+This project made by Semih Okumuş as a personal project.
+
+16.12.2023
+
+https://github.com/smh-ux/File_Manager
+'''
+
 #import libraries
 from tkinter import *
 from tkinter import filedialog
